@@ -16,9 +16,9 @@ function Show(){
     } else if (music == "We Both Reached For The Gun"){
         ytVideo.innerHTML = '<iframe width="560" height="315" src="https://www.youtube.com/embed/C9dFKRZ8EbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     } else if (music == "Roxie"){
-        ytVideo.innerHTML = '<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HB4zlQVRaD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+        ytVideo.innerHTML = '<iframe width="560" height="315" src="https://www.youtube.com/embed/J-_HTUapDQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     } else if (music == "I Can't Do It Alone"){
-        ytVideo.innerHTML = '<iframe width="560" height="315" src="https://www.youtube.com/embed/00oBK-x1pVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+        ytVideo.innerHTML = '<iframe width="560" height="315" src="https://www.youtube.com/embed/HB4zlQVRaD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     } else if (music == "Mister Cellophane"){
         ytVideo.innerHTML = '<iframe width="560" height="315" src="https://www.youtube.com/embed/WKHzTtr_lNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     } else if (music == "Razzle Dazzle"){
