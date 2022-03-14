@@ -29,7 +29,6 @@ function Show(){
         alert("Please type a valid music name.")
     }
     
-
 }
 
 
